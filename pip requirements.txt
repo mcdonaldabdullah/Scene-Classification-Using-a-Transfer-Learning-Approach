@@ -1,0 +1,4 @@
+All libraries that were used are included with Google Colaboratoy.
+So the only requirements for running my code is the downloading the 'kaggle.json' file and 
+having a google account so that you can access Google Colaboratory.
+Details of how to download the 'kaggle.json' are included in the 'READ ME.docx' file.
